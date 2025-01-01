@@ -74,7 +74,7 @@ const dataKuis = [
 {
   "pertanyaan": "Apa jawaban yang tepat untuk nomor 10?",
   "a": "Cheetah.",
-  "b": "Ayam, karena suka joget chicken dance".,
+  "b": "Ayam, karena suka joget chicken dance.",
   "c": "Lumba-lumba.",
   "d": "Kuda, karena sering lari di lapangan.",
   "benar": "d"
