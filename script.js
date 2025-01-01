@@ -1,82 +1,82 @@
 const dataKuis = [
     {
-  "pertanyaan": "Berapa hasil yang benar dari 3 + 2?",
-  "a": "4",
-  "b": "5",
-  "c": "6",
-  "d": "7",
-  "benar": "b"
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 1?",
+  "a": "Mau ke pasar.",
+  "b": "Ada diskon besar-besaran.",
+  "c": "Karena lapar.",
+  "d": "Karena mau viral di TikTok.",
+  "benar": "d"
  }, 
 {
-  "pertanyaan": "Berapa hasil yang benar dari 10 ÷ 2?",
-  "a": "3",
-  "b": "4",
-  "c": "5",
-  "d": "6",
-  "benar": "c"
-},
-    {
-  "pertanyaan": "Berapa hasil yang benar dari 7 + 8?",
-  "a": "14",
-  "b": "17",
-  "c": "16",
-  "d": "15",
-  "benar": "d"
-},
-    {
-  "pertanyaan": "Berapa hasil yang benar dari 12 ÷ 3?",
-  "a": "4",
-  "b": "3",
-  "c": "5",
-  "d": "6",
-  "benar": "a"
-},
-    {
-  "pertanyaan": "Berapa hasil yang benar dari 5 x 6?",
-  "a": "28",
-  "b": "30",
-  "c": "32",
-  "d": "36",
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 2?",
+  "a": "Virus.",
+  "b": "Listrik mati.",
+  "c": "Tikus komputer.",
+  "d": "Air hujan.",
   "benar": "b"
 },
     {
-  "pertanyaan": "Berapa hasil yang benar dari 16 ÷ 4?",
-  "a": "3",
-  "b": "6",
-  "c": "5",
-  "d": "4",
-  "benar": "d"
-},
-    {
-  "pertanyaan": "Berapa hasil yang benar dari 7 x 9?",
-  "a": "63",
-  "b": "69",
-  "c": "72",
-  "d": "81",
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 3?",
+  "a": "Indomie di rak dapur.",
+  "b": "Diskon makanan.",
+  "c": "Teman yang traktir.",
+  "d": "Restoran.",
   "benar": "a"
 },
     {
-  "pertanyaan": "Berapa hasil yang benar dari 12 x 8?",
-  "a": "86",
-  "b": "106",
-  "c": "96",
-  "d": "112",
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 4?",
+  "a": "Tidur.",
+  "b": "Makan banyak.",
+  "c": "Marah-marah sendiri.",
+  "d": "Scroll TikTok tanpa senyum.",
+  "benar": "d"
+},
+    {
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 5?",
+  "a": "Kucing Matematika.",
+  "b": "Kucing Kalkulator.",
+  "c": "Kucing Statistik.",
+  "d": "Kucing Algebra.",
+  "benar": "b"
+},
+    {
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 6?",
+  "a": "Jajan terus.",
+  "b": "panas matahari",
+  "c": "Hutang teman.",
+  "d": "Ongkir paket.",
+  "benar": "b"
+},
+    {
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 7?",
+  "a": "Cuaca.",
+  "b": "Soal air yang kurang asin.",
+  "c": "Tentang jaring nelayan.",
+  "d": "Tentang kapal di atas mereka.",
+  "benar": "b"
+},
+    {
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 8?",
+  "a": "Cepat lewat, aku capek!",
+  "b": "Ayo kita selfie!",
+  "c": "Berhenti dulu dong, sabar napa!",
+  "d": "Aku ngantuk, matikan aku.",
   "benar": "c"
 },
     {
-  "pertanyaan": "tentukan hasilnya! Jika x + 5 = 12, x=",
-  "a": "6",
-  "b": "7",
-  "c": "8",
-  "d": "9",
-  "benar": "b"
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 9?",
+  "a": "Sepeda lipat.",
+  "b": "HP jadul.",
+  "c": "Uang receh.",
+  "d": "Korek api gas.",
+  "benar": "d"
 },
 {
-  "pertanyaan": "Berapakah hasil dari 790 + 96 x 870?",
-  "a": "87220",
-  "b": "84300",
-  "c": "84377",
-  "d": "84310",
+  "pertanyaan": "Apa jawaban yang tepat untuk nomor 10?",
+  "a": "Cheetah.",
+  "b": "Ayam, karena suka joget chicken dance".,
+  "c": "Lumba-lumba.",
+  "d": "Kuda, karena sering lari di lapangan.",
   "benar": "d"
 }
   ];
