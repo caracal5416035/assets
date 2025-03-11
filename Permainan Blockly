@@ -1,0 +1,372 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://blockly.games/
+Subject: Permainan Blockly
+Date: Tue, 11 Mar 2025 14:17:46 +0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Xpj4gvAc9YXAz6qDlvv8agIT6CqKoK76lJbf5CaqK8----"
+
+
+------MultipartBoundary--Xpj4gvAc9YXAz6qDlvv8agIT6CqKoK76lJbf5CaqK8----
+Content-Type: text/html
+Content-ID: <frame-D4B05D0E8DA56BCE59F2D2CADDE4AF1F@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://blockly.games/
+
+<!DOCTYPE html><html dir="ltr" lang="id"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <meta name="google" value="notranslate">
+  <meta name="viewport" content="width=725, initial-scale=.35, user-scalable=no">
+  <meta name="description" content="Games for tomorrow's programmers.  Block-based programming lessons for beginners.">
+  <title>Permainan Blockly</title>
+  <link rel="stylesheet" href="https://blockly.games/common/common.css">
+  <link rel="stylesheet" href="https://blockly.games/index/style.css">
+  
+</head>
+<body>
+<div id="header">
+  <img id="banner" src="https://blockly.games/index/title.svg" height="40" width="244" alt="Blockly Games">
+  <div id="subtitle">Permainan untuk programer masa depan&nbsp;
+    <a href="https://blockly.games/about?lang=id">Info untuk pengajar...</a>
+  </div>
+</div>
+<svg height="100%" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g transform="translate(-150,-60)">
+    <svg height="100%" width="100%" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 100 100" preserveAspectRatio="none" x="150" y="60">
+      <path id="path" d="M 10,15 C 15,60 35,100 50,70 S 80,20 90,85"></path>
+    </svg>
+    
+<svg height="150" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="10%" y="15%">
+  <path d="M 111.11,98.89 A 55 55 0 1 1 188.89,98.89" class="gaugeBack" id="back-puzzle"></path>
+  <g class="icon" id="icon-puzzle">
+    <circle cx="150" cy="60" r="50" class="iconBack"></circle>
+    <image xlink:href="index/puzzle.png" height="100" width="100" x="100" y="10"></image>
+    <a xlink:href="https://blockly.games/puzzle?lang=id">
+      <circle cx="150" cy="60" r="50" class="iconBorder"></circle>
+      <path class="gaugeFront" id="gauge-puzzle" d="M 112.70011729240962 97.29988270759037 A 52.75 52.75 0 1 1 187.2998827075904 97.29988270759037"></path>
+      <text x="150" y="135">Teka-teki</text>
+    </a>
+  </g>
+</svg>
+
+    
+<svg height="150" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="16%" y="45%">
+  <path d="M 111.11,98.89 A 55 55 0 1 1 188.89,98.89" class="gaugeBack" id="back-maze"></path>
+  <g class="icon" id="icon-maze">
+    <circle cx="150" cy="60" r="50" class="iconBack"></circle>
+    <image xlink:href="index/maze.png" height="100" width="100" x="100" y="10"></image>
+    <a xlink:href="https://blockly.games/maze?lang=id">
+      <circle cx="150" cy="60" r="50" class="iconBorder"></circle>
+      <path class="gaugeFront" id="gauge-maze" d="M 112.70011729240962 97.29988270759037 A 52.75 52.75 0 1 1 187.2998827075904 97.29988270759037"></path>
+      <text x="150" y="135">Labirin</text>
+    </a>
+  </g>
+</svg>
+
+    
+<svg height="150" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="26%" y="69%">
+  <path d="M 111.11,98.89 A 55 55 0 1 1 188.89,98.89" class="gaugeBack" id="back-bird"></path>
+  <g class="icon" id="icon-bird">
+    <circle cx="150" cy="60" r="50" class="iconBack"></circle>
+    <image xlink:href="index/bird.png" height="100" width="100" x="100" y="10"></image>
+    <a xlink:href="https://blockly.games/bird?lang=id">
+      <circle cx="150" cy="60" r="50" class="iconBorder"></circle>
+      <path class="gaugeFront" id="gauge-bird" d="M 112.70011729240962 97.29988270759037 A 52.75 52.75 0 1 1 202.10055996639352 51.74808196912782"></path>
+      <text x="150" y="135">Burung</text>
+    </a>
+  </g>
+</svg>
+
+    
+<svg height="150" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="41%" y="80%">
+  <path d="M 111.11,98.89 A 55 55 0 1 1 188.89,98.89" class="gaugeBack" id="back-turtle"></path>
+  <g class="icon" id="icon-turtle">
+    <circle cx="150" cy="60" r="50" class="iconBack"></circle>
+    <image xlink:href="index/turtle.png" height="100" width="100" x="100" y="10"></image>
+    <a xlink:href="https://blockly.games/turtle?lang=id">
+      <circle cx="150" cy="60" r="50" class="iconBorder"></circle>
+      
+      <text x="150" y="135">Kura-kura</text>
+    </a>
+  </g>
+</svg>
+
+    
+<svg height="150" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="55%" y="61%">
+  <path d="M 111.11,98.89 A 55 55 0 1 1 188.89,98.89" class="gaugeBack" id="back-movie"></path>
+  <g class="icon" id="icon-movie">
+    <circle cx="150" cy="60" r="50" class="iconBack"></circle>
+    <image xlink:href="index/movie.png" height="100" width="100" x="100" y="10"></image>
+    <a xlink:href="https://blockly.games/movie?lang=id">
+      <circle cx="150" cy="60" r="50" class="iconBorder"></circle>
+      
+      <text x="150" y="135">Film</text>
+    </a>
+  </g>
+</svg>
+
+    
+<svg height="150" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="69%" y="43%">
+  <path d="M 111.11,98.89 A 55 55 0 1 1 188.89,98.89" class="gaugeBack" id="back-music"></path>
+  <g class="icon" id="icon-music">
+    <circle cx="150" cy="60" r="50" class="iconBack"></circle>
+    <image xlink:href="index/music.png" height="100" width="100" x="100" y="10"></image>
+    <a xlink:href="https://blockly.games/music?lang=id">
+      <circle cx="150" cy="60" r="50" class="iconBorder"></circle>
+      <path class="gaugeFront" id="gauge-music" d="M 112.70011729240962 97.29988270759037 A 52.75 52.75 0 1 1 187.2998827075904 97.29988270759037"></path>
+      <text x="150" y="135">Musik</text>
+    </a>
+  </g>
+</svg>
+
+    
+<svg height="150" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="83%" y="55%">
+  <path d="M 111.11,98.89 A 55 55 0 1 1 188.89,98.89" class="gaugeBack" id="back-pond-tutor"></path>
+  <g class="icon" id="icon-pond-tutor">
+    <circle cx="150" cy="60" r="50" class="iconBack"></circle>
+    <image xlink:href="index/pond-tutor.png" height="100" width="100" x="100" y="10"></image>
+    <a xlink:href="https://blockly.games/pond-tutor?lang=id">
+      <circle cx="150" cy="60" r="50" class="iconBorder"></circle>
+      
+      <text x="150" y="135">Kolam Pembimbing</text>
+    </a>
+  </g>
+</svg>
+
+    
+<svg height="150" width="300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="90%" y="85%">
+  <path d="M 111.11,98.89 A 55 55 0 1 1 188.89,98.89" class="gaugeBack" id="back-pond-duck"></path>
+  <g class="icon" id="icon-pond-duck">
+    <circle cx="150" cy="60" r="50" class="iconBack"></circle>
+    <image xlink:href="index/pond-duck.png" height="100" width="100" x="100" y="10"></image>
+    <a xlink:href="https://blockly.games/pond-duck?lang=id">
+      <circle cx="150" cy="60" r="50" class="iconBorder"></circle>
+      
+      <text x="150" y="135">Kolam</text>
+    </a>
+  </g>
+</svg>
+
+  </g>
+</svg>
+<select id="languageMenu"><option value="ig">Asụsụ Igbo</option><option value="id">Bahasa Indonesia</option><option value="ms">Bahasa Melayu</option><option value="br">Brezhoneg</option><option value="ca">Català</option><option value="da">Dansk</option><option value="de">Deutsch</option><option value="en">English</option><option value="es">Español</option><option value="eo">Esperanto</option><option value="eu">Euskara</option><option value="fr">Français</option><option value="fo">Føroyskt</option><option value="gl">Galego</option><option value="ha">Hausa</option><option value="hr">Hrvatski</option><option value="ia">Interlingua</option><option value="it">Italiano</option><option value="lv">Latviešu</option><option value="lt">Lietuvių</option><option value="hu">Magyar</option><option value="nl">Nederlands, Vlaams</option><option value="nb">Norsk (bokmål)</option><option value="pms">Piemontèis</option><option value="pl">Polski</option><option value="pt">Português</option><option value="pt-br">Português Brasileiro</option><option value="ro">Română</option><option value="sc">Sardu</option><option value="sq">Shqip</option><option value="sk">Slovenčina</option><option value="sl">Slovenščina</option><option value="sr-latn">Srpski</option><option value="fi">Suomi</option><option value="sv">Svenska</option><option value="kab">Taqbaylit</option><option value="be-tarask">Taraškievica</option><option value="vi">Tiếng Việt</option><option value="tr">Türkçe</option><option value="yo">Èdè Yorùbá</option><option value="is">Íslenska</option><option value="cs">Česky</option><option value="el">Ελληνικά</option><option value="ru">Русский</option><option value="sr">Српски</option><option value="uk">Українська</option><option value="be">беларускі</option><option value="bg">български език</option><option value="hy">հայերէն</option><option value="he">עברית</option><option value="ar">العربية</option><option value="ur">اُردُو‬</option><option value="fa">فارسی</option><option value="hi">हिन्दी</option><option value="bn">বাংলা</option><option value="kn">ಕನ್ನಡ</option><option value="th">ภาษาไทย</option><option value="my">မြန်မာစာ</option><option value="ti">ትግርኛ</option><option value="am">አማርኛ</option><option value="ja">日本語</option><option value="zh-hant">正體中文</option><option value="zh-hans">简体中文</option><option value="ko">한국어</option></select>
+<p id="clearDataPara" style="visibility: visible;">
+  Ulangi dari awal?
+  <button class="secondary" id="clearData">Hapus data</button>
+</p>
+</body></html>
+------MultipartBoundary--Xpj4gvAc9YXAz6qDlvv8agIT6CqKoK76lJbf5CaqK8----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: binary
+Content-Location: https://blockly.games/index/title.svg
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="244" height="40" version="1.1" viewBox="0 0 160 26" xmlns="http://www.w3.org/2000/svg">
+  <style>
+.blocklyPathLight {
+  fill: none;
+  stroke-linecap: round;
+  stroke-width: 1;
+}
+
+text {
+  cursor: default;
+  fill: #fff;
+  font-family: sans-serif;
+  font-size: 11pt;
+}
+  </style>
+  <g>
+    <path transform="translate(1,1)" fill="#496684" d="m 8,0 h 74.435 v 5 c 0,10 -8,-8 -8,7.5 s 8,-2.5 8,7.5 V 25 H 8 V 20 c 0,-10 -8,8 -8,-7.5 s 8,2.5 8,-7.5 z"></path>
+    <path stroke="none" fill="#5b80a5" d="m 8,0 h 74.435 v 5 c 0,10 -8,-8 -8,7.5 s 8,-2.5 8,7.5 V 25 H 8 V 20 c 0,-10 -8,8 -8,-7.5 s 8,2.5 8,-7.5 z"></path>
+    <path class="blocklyPathLight" stroke="#8ca6c0" d="m 8,0 m 0.5,0.5 H 81.935 M 82.435,5 m -5,14.3 l 3.68,-2.1 M 8.5,24.5 V 20 v -1.5 m -7.36,-0.5 q -1.52,-5.5 0,-11 m 7.36,1 V 0.5"></path>
+    <g transform="translate(18,5)">
+      <text x="0" y="13">Blockly</text>
+    </g>
+  </g>
+  <g transform="translate(75.435,0)">
+    <path transform="translate(1,1)" fill="#7a4984" d="m 8,0 h 75.251 v 5 c 0,10 -8,-8 -8,7.5 s 8,-2.5 8,7.5 V 25 H 8 V 20 c 0,-10 -8,8 -8,-7.5 s 8,2.5 8,-7.5 z"></path>
+    <path stroke="none" fill="#995ba5" d="m 8,0 h 75.251 v 5 c 0,10 -8,-8 -8,7.5 s 8,-2.5 8,7.5 V 25 H 8 V 20 c 0,-10 -8,8 -8,-7.5 s 8,2.5 8,-7.5 z"></path>
+    <path class="blocklyPathLight" stroke="#b88cc0" d="m 8,0 m 0.5,0.5 H 82.751 M 83.251,5 m -5,14.3 l 3.68,-2.1 M 8.5,24.5 V 20 v -1.5 m -7.36,-0.5 q -1.52,-5.5 0,-11 m 7.36,1 V 0.5"></path>
+    <g transform="translate(18,5)">
+      <text x="0" y="13">Games</text>
+    </g>
+  </g>
+</svg>
+------MultipartBoundary--Xpj4gvAc9YXAz6qDlvv8agIT6CqKoK76lJbf5CaqK8----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://blockly.games/index/style.css
+
+@charset "utf-8";
+
+html, body { height: 100%; width: 100%; padding: 0px; margin: 0px; overflow: hidden; }
+
+#languageMenu { position: absolute; top: 0px; }
+
+html[dir="LTR"] #languageMenu { right: 1em; }
+
+html[dir="RTL"] #languageMenu { left: 1em; }
+
+#header { position: absolute; top: 1em; left: 20%; right: 20%; width: 60%; text-align: center; }
+
+#banner { padding: 1em; }
+
+#subtitle { font-style: italic; }
+
+a { outline: none; text-decoration: none; }
+
+#clearDataPara { bottom: 0px; position: absolute; margin: 1em; visibility: hidden; }
+
+#clearData { font-size: medium; margin: 5px 10px; padding: 0px 4px; }
+
+#path { stroke: rgb(204, 204, 204); stroke-width: 1; stroke-linecap: round; fill: none; stroke-dasharray: 180; stroke-dashoffset: 180; animation: 0.7s linear 0s 1 normal forwards running dash; }
+
+@keyframes dash { 
+  100% { stroke-dashoffset: 0; }
+}
+
+.iconBack { fill: rgb(255, 255, 255); }
+
+.iconBorder { stroke: rgb(170, 170, 170); stroke-width: 5; fill: rgba(0, 0, 0, 0.1); }
+
+a:focus > .iconBorder, a:hover > .iconBorder { fill: rgba(255, 255, 255, 0.1); }
+
+a:focus > text, a:hover > text { fill: rgb(102, 102, 102); }
+
+.icon { animation: 0.5s cubic-bezier(0.5, 0.5, 0.5, 1.5) 0s 1 normal forwards running pop; visibility: hidden; }
+
+.icon text { text-anchor: middle; font-size: 18pt; }
+
+#icon-puzzle { animation-delay: 0s; }
+
+#icon-maze { animation-delay: 0.1s; }
+
+#icon-bird { animation-delay: 0.2s; }
+
+#icon-turtle { animation-delay: 0.3s; }
+
+#icon-movie { animation-delay: 0.4s; }
+
+#icon-music { animation-delay: 0.5s; }
+
+#icon-pond-tutor { animation-delay: 0.6s; }
+
+#icon-pond-duck { animation-delay: 0.7s; }
+
+#back-puzzle { animation-delay: 0.3s; }
+
+#back-maze { animation-delay: 0.4s; }
+
+#back-bird { animation-delay: 0.5s; }
+
+#back-turtle { animation-delay: 0.6s; }
+
+#back-movie { animation-delay: 0.7s; }
+
+#back-music { animation-delay: 0.8s; }
+
+#back-pond-tutor { animation-delay: 0.9s; }
+
+#back-pond-duck { animation-delay: 1s; }
+
+@keyframes pop { 
+  0% { transform: translate(150px, 50px) scale(0); }
+  100% { transform: translate(0px, 0px) scale(1); visibility: visible; }
+}
+
+.gaugeBack { stroke: rgb(170, 170, 170); stroke-width: 6; fill: none; animation: 0.1s linear 0s 1 normal forwards running pop; visibility: hidden; }
+
+.gaugeFront { stroke: rgb(0, 187, 0); stroke-width: 8; fill: none; }
+------MultipartBoundary--Xpj4gvAc9YXAz6qDlvv8agIT6CqKoK76lJbf5CaqK8----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://blockly.games/common/common.css
+
+@charset "utf-8";
+
+body { background-color: rgb(255, 255, 255); font-family: sans-serif; margin-top: 0px; }
+
+h1 { font-weight: normal; font-size: 130%; }
+
+h1 a { text-decoration: none; }
+
+a:focus, a:hover { color: rgb(255, 0, 0); }
+
+.farSide { text-align: right; }
+
+#header_cta > * { vertical-align: middle; }
+
+html[dir="RTL"] .farSide { text-align: left; }
+
+.level_number { border: 1px solid rgb(221, 221, 221); border-radius: 20px; padding: 6px 12px; color: rgb(136, 136, 136); }
+
+.level_dot { border: 1px solid rgb(221, 221, 221); border-radius: 50%; width: 15px; height: 15px; display: inline-block; }
+
+.level_done, .level_dot:hover, .level_number:hover { background-color: rgb(221, 221, 221); color: rgb(0, 0, 0); }
+
+#containerCode { direction: ltr; background-color: rgb(238, 238, 238); padding: 5px; margin: 0px 3ex; font-size: large; overflow: auto; max-height: 200px; }
+
+img[src$="help.png"] { height: 64px; width: 64px; }
+
+html[dir="RTL"] .mirrorImg { transform: scaleX(-1); }
+
+#languageMenu { margin: 16px 0px; }
+
+xml { display: none; }
+
+button { margin: 5px; padding: 10px; border-radius: 4px; border: 1px solid rgb(221, 221, 221); font-size: large; background-color: rgb(238, 238, 238); color: rgb(0, 0, 0); }
+
+button.primary { border: 1px solid rgb(221, 75, 57); background-color: rgb(221, 75, 57); color: rgb(255, 255, 255); }
+
+button.secondary { border: 1px solid rgb(77, 144, 254); background-color: rgb(77, 144, 254); color: rgb(255, 255, 255); }
+
+button.primary > img, button.secondary > img { opacity: 1; }
+
+button > img { opacity: 0.6; vertical-align: text-bottom; }
+
+button:hover:not(:disabled) > img { opacity: 1; }
+
+button:active:not(:disabled) { border: 1px solid rgb(136, 136, 136) !important; }
+
+button:hover:not(:disabled) { box-shadow: rgb(136, 136, 136) 2px 2px 5px; }
+
+#dialog { visibility: hidden; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(204, 204, 204); position: absolute; border-radius: 8px; box-shadow: rgb(136, 136, 136) 5px 5px 5px; padding: 10px; }
+
+#dialogBorder { visibility: hidden; position: absolute; background-color: rgb(255, 255, 255); color: rgb(0, 0, 0); border: 1px solid rgb(0, 0, 0); border-radius: 6px; box-shadow: rgb(136, 136, 136) 5px 5px 5px; }
+
+#dialogShadow { visibility: hidden; position: fixed; top: 0px; left: 0px; height: 100%; width: 100%; background-color: rgb(0, 0, 0); opacity: 0.3; }
+
+.dialogAnimate { transition-duration: 0.2s; transition-timing-function: linear; }
+
+.dialogHiddenContent { visibility: hidden; position: absolute; top: 0px; left: 0px; z-index: -1; }
+
+#dialogHeader { height: 25px; margin: -10px -10px 15px; border-top-left-radius: 8px; border-top-right-radius: 8px; background-color: rgb(221, 221, 221); cursor: move; }
+
+#dialog button { min-width: 4em; }
+
+.readonly .blocklyMainBackground { stroke: none; }
+
+#galleryForm > header { font-size: larger; }
+
+#galleryForm > * { margin-top: 1em; margin-left: 1em; margin-right: 1em; }
+
+#dialogDone > .large { font-size: large; margin: 1em; }
+
+.farSideButtons { padding: 1ex 3ex 0px; }
+
+.icon21 { height: 21px; width: 21px; background-image: url("icons.png"); }
+
+.link { background-position: 0px 0px; }
+
+.camera { background-position: -21px 0px; }
+
+.stop { background-position: -42px 0px; }
+
+.run { background-position: -63px 0px; }
+
+.gallery { background-position: -63px -21px; }
+
+.close { background-position: -42px -42px; }
+------MultipartBoundary--Xpj4gvAc9YXAz6qDlvv8agIT6CqKoK76lJbf5CaqK8------
